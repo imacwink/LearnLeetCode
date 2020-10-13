@@ -1,15 +1,15 @@
-# LearnLeetCode
+# LeetCode
 
-| File Name                 | Problem title                                     | ID    |
-|:-------------:            |:-------------------------------------------------:|:-----:|
-| two_sum                   | Two Sum                                           | 1     |
-| add_two_numbers           | Add Two Numbers                                   | 2     |
-| lswrc                     | longest substring without repeating characters    | 3     |
+| File Name                 | Problem title                                                   | ID    |
+|:-------------:            |:-------------------------------------------------:              |:-----:|
+| two_sum                   | [Two Sum](https://leetcode.com/problems/two-sum/)               | 1     |
+| add_two_numbers           | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)       | 2     |
+| lswrc                     | [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| 3     |
 | mtsa                      | median of two sorted arrays                       | 4     |
 | lps                       | longest palindromic substring                     | 5     |
 | zzc                       | zigzag conversion                                 | 6     |
 | atoi                      | String to Integer                                 | 8     |
-| palindrome_number         | **Palindrome Number**                             | 9     |
+| palindrome_number         | Palindrome Number.                                | 9     |
 | rem                       | Regular Expression Matching                       | 10    |
 | cmw                       | Container with Most Water                         | 11    |
 | *missing*                 | Longest prefix string                             | 14    |
